@@ -1,0 +1,3 @@
+﻿  strongly connected graph.cpp
+C:\Users\Dell\OneDrive\Documents\Desktop\strongly connected graph\strongly connected graph\strongly connected graph.cpp(44,1): warning C4715: 'Graph::is_strongly_connected': not all control paths return a value
+  strongly connected graph.vcxproj -> C:\Users\Dell\OneDrive\Documents\Desktop\strongly connected graph\x64\Debug\strongly connected graph.exe
