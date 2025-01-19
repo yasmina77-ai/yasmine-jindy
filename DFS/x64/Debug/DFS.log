@@ -1,0 +1,102 @@
+﻿  DFS.cpp
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(2,5): error C2137: empty character constant
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(2,5): error C2143: syntax error: missing ';' before 'user-defined literal'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(2,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(2,5): error C2059: syntax error: 'user-defined literal'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(3,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(3,5): error C2146: syntax error: missing ';' before identifier 'num'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(4,8): error C2143: syntax error: missing ';' before '<'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(4,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(4,8): error C2059: syntax error: '<'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(6,6): error C2182: 'States': this use of 'void' is not valid
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(6,13): error C2146: syntax error: missing ';' before identifier 'Pace'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(6,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,2): error C2065: 'Cout': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,10): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,10): error C2065: '”enter': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,19): error C2146: syntax error: missing ';' before identifier 'number'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,19): error C2065: 'number': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,26): error C2146: syntax error: missing ';' before identifier 'of'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,26): error C2065: 'of': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,29): error C2146: syntax error: missing ';' before identifier 'edges'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,37): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(7,37): error C2065: '”': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(8,2): error C2065: 'Cin': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(8,9): error C2065: 'num': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(8,15): error C2065: 'of': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(8,20): error C2065: 'edges': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(9,2): error C2065: 'Cout': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(9,10): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(9,10): error C2065: '”enter': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(9,19): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(9,19): error C2065: 'the': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(9,23): error C2146: syntax error: missing ';' before identifier 'edges'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(9,31): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(9,31): error C2065: '”': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(10,6): error C2144: syntax error: 'int' should be preceded by ')'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(10,2): error C3861: 'For': identifier not found
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(10,6): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(10,19): error C2143: syntax error: missing ';' before '<'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(10,17): error C2086: 'int i': redefinition
+      C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(10,10):
+      see declaration of 'i'
+  
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(10,42): error C2059: syntax error: ')'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(11,1): warning C4508: 'Graph': function should return a value; 'void' return type assumed
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(9,23): error C2045: 'edges': label redefined
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(12,5): error C2143: syntax error: missing ';' before '>>'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(12,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(12,5): error C2059: syntax error: '>>'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(13,5): error C2065: 'from': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(13,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(13,10): error C3484: syntax error: expected '->' before the return type
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(13,11): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(13,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(13,11): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(13,28): error C2059: syntax error: '}'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(13,28): error C2143: syntax error: missing ';' before '}'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(14,20): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(14,20): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,2): error C2065: 'cout': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,10): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,10): error C2065: '”the': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,17): error C2146: syntax error: missing ';' before identifier 'order'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,17): error C2065: 'order': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,23): error C2146: syntax error: missing ';' before identifier 'of'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,23): error C2065: 'of': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,26): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,26): error C2065: 'the': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,30): error C2146: syntax error: missing ';' before identifier 'nodes'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,30): error C2065: 'nodes': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,36): error C2146: syntax error: missing ';' before identifier 'to'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,36): error C2065: 'to': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,39): error C2146: syntax error: missing ';' before identifier 'reach'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,39): error C2065: 'reach': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,45): error C2146: syntax error: missing ';' before identifier 'the'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,45): error C2065: 'the': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,49): error C2146: syntax error: missing ';' before identifier 'goal'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,49): error C2065: 'goal': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,54): error C2146: syntax error: missing ';' before identifier 'is'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,59): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(27,59): error C2065: '”': undeclared identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(28,20): error C2143: syntax error: missing ',' before '<'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(28,18): error C2086: 'int i': redefinition
+      C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(28,11):
+      see declaration of 'i'
+  
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(30,6): error C2143: syntax error: missing ';' before '<<'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(30,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(30,6): error C2059: syntax error: '<<'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(30,21): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(30,25): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(30,30): error C2059: syntax error: '}'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(30,30): error C2143: syntax error: missing ';' before '}'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(31,1): error C2143: syntax error: missing ';' before '}'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(31,1): error C2059: syntax error: '}'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(32,12): error C2143: syntax error: missing ';' before '{'
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(32,12): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(34,10): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(34,28): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(36,10): error C3873: '0x201d': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(36,37): error C3873: '0x201c': this character is not allowed as a first character of an identifier
+C:\Users\Dell\OneDrive\Documents\Desktop\DFS\DFS\DFS.cpp(40,1): error C1004: unexpected end-of-file found
