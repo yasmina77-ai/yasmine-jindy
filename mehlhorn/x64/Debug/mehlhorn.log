@@ -1,0 +1,4 @@
+﻿  mehlhorn.cpp
+C:\Users\Dell\OneDrive\Documents\Desktop\mehlhorn\mehlhorn\mehlhorn.cpp(14,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Dell\OneDrive\Documents\Desktop\mehlhorn\mehlhorn\mehlhorn.cpp(15,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  mehlhorn.vcxproj -> C:\Users\Dell\OneDrive\Documents\Desktop\mehlhorn\x64\Debug\mehlhorn.exe
